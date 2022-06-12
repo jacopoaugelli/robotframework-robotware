@@ -1,6 +1,6 @@
 ![cover](brand-assets/nobackground-robotware-cover.png)
  
-<h1>ROBOT_WARE/ <img style="vertical-align:middle" src="brand-assets/robot-hacker.robot.svg" height="54"></h1>
+# ROBOT_WARE/ <img style="vertical-align:middle" src="brand-assets/robotware-cropped.svg" height="54">
 
 ## Features
 
@@ -13,8 +13,6 @@
 - [ ] LFI tester
 - [ ] IDOR tester
 - [ ] Server Footprinting
- 
----
 
 ## Goal
 
@@ -30,4 +28,4 @@ that can help during a pen test session.
 - Easy to read
 - Data driven executions
 
----
+
