@@ -1,6 +1,6 @@
-![cover](brand-assets/cover.png)
+![cover](brand-assets/nobackground-robotware-cover.png)
  
-<h1>Robot_ware/</h1>
+<h1>ROBOT_WARE/ <img style="vertical-align:middle" src="brand-assets/robot-hacker.robot.svg" height="54"></h1>
 
 ## Features
 
@@ -14,8 +14,9 @@
 - [ ] IDOR tester
 - [ ] Server Footprinting
  
+---
 
-### Goal
+## Goal
 
 Use RF features and libraries combined in order to create a pen test tool 
 that can help during a pen test session.
@@ -28,3 +29,5 @@ that can help during a pen test session.
 - Extensibility
 - Easy to read
 - Data driven executions
+
+---
