@@ -41,12 +41,12 @@ def dir_searcher(urls, dictionary):
     for url in range(len(urls)): 
         for word in range(len(dictionary)):
              response = requests.get(urls[url] + dictionary[word]) 
-        if response.status_code == 200:
+             if response.status_code == 200:
             
-            ok_status.append(urls[url] + dictionary[word]) 
-        else:
+                ok_status.append(urls[url] + dictionary[word]) 
+             else:
                         
-            print("Error 404: " + urls[url] + dictionary[word] + " does not exist") 
+                print("Error 404: " + urls[url] + dictionary[word] + " does not exist") 
     return ok_status
        
 
@@ -56,8 +56,8 @@ def dir_searcher(urls, dictionary):
 host = input()
 scraped_urls = xml_scraper(url_gen(host))
 
-#wordlist di prova
-dict = ["skdjfhiksudhfoiusd", "robot"]
+#wordlist di prova -> deve diventare una wordlist.txt
+dict = ["skdjfhiksudhfoiusd", "robot", "test"]
 
 #test
 print(dir_searcher(scraped_urls , dict))
