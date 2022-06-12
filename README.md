@@ -1,6 +1,6 @@
 ![cover](brand-assets/nobackground-robotware-cover.png)
  
-# ROBOT_WARE/ <img style="vertical-align:middle" src="brand-assets/robotware-cropped.svg" height="54">
+<h1> ROBOT_WARE/ <img style="vertical-align:middle" src="brand-assets/robotware-cropped.png" height="54"> </h1>
 
 ## Features
 
